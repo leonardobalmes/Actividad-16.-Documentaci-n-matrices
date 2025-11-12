@@ -87,15 +87,8 @@ $$
 ---
 
 #### b) Operación $2A - B
-$$
-BA = \begin{pmatrix} 5 & 2 \\ -1 & 3 \end{pmatrix}
-     \begin{pmatrix} 2 & -1 \\ 3 & 4 \end{pmatrix}
-   = \begin{pmatrix}
-   (5)(2)+(2)(3) & (5)(-1)+(2)(4) \\
-   (-1)(2)+(3)(3) & (-1)(-1)+(3)(4)
-   \end{pmatrix}
-   = \begin{pmatrix} 16 & 3 \\ 7 & 13 \end{pmatrix}
-$$
+![equation](https://math.now.sh?from=BA%20%3D%20%5Cbegin%7Bpmatrix%7D5%262%5C%5C-1%263%5Cend%7Bpmatrix%7D%5Cbegin%7Bpmatrix%7D2%26-1%5C%5C3%264%5Cend%7Bpmatrix%7D%3D%5Cbegin%7Bpmatrix%7D16%263%5C%5C7%2613%5Cend%7Bpmatrix%7D)
+
 ---
 
 #### c) Producto $AB$
